@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello satyam user 2 
+=======
+Hello satyam
+Changes from user1
+>>>>>>> e5f3a213e8b2e46d20523748e3e83ab46d325b4f
