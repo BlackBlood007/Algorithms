@@ -5,8 +5,9 @@ public class Practice {
 		
 
 		System.out.println("hello from user 2");
-		System.out.println("change x");
 		System.out.println("hello");
+
+		System.out.println("change xy");
 	}
 }
 
