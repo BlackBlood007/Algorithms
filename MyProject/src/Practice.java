@@ -8,7 +8,6 @@ public class Practice {
 		System.out.println("hello");
 		//abc
 		//def
-		System.out.println("samsun");
 
 
 
