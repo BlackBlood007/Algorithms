@@ -9,7 +9,7 @@ public class Practice {
 		//abc
 		//def
 		System.out.println("satyam");
-
+		System.out.println("heehe");
 
 	}
 }
