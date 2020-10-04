@@ -7,7 +7,7 @@ public class Practice {
 		System.out.println("hello from user 24");
 		System.out.println("hello");
 		//abc
-		//def
+		
 		
 
 
