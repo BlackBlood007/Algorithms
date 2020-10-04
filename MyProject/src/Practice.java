@@ -6,8 +6,10 @@ public class Practice {
 
 		System.out.println("hello from user 24");
 		System.out.println("hello");
-		System.out.println("jajas");
-	
+		//abc
+		//def
+		System.out.println("haha");
+
 
 	}
 }
