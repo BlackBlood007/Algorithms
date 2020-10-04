@@ -8,9 +8,7 @@ public class Practice {
 		System.out.println("hello");
 		//abc
 		//def
-		System.out.println("haha");
-		System.out.println("removing  for branch fix");
-		System.out.println("hp");
+		
 
 	}
 }
